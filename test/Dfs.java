@@ -5,7 +5,7 @@ import org.junit.jupiter.api.DisplayName;
 
 public class Dfs {
     @Test
-    @DisplayName("targetNumber Test")
+    @DisplayName("targetNumber dfs Test")
     public void targetNumberDfs(){
         TargetNumber targetNumber = new TargetNumber();
         //given
